@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NawabSami
-- 👀 I’m interested in ...
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on HTML and CSS
 - 📫 How to reach me NawabSami@yahoo.com
